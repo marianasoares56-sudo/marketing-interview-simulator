@@ -61,7 +61,7 @@ export default function LandingPage() {
 
         <p className="text-slate-400 text-lg max-w-xl mb-10 leading-relaxed">
           AI-powered behavioral, case, and situational interview practice — with detailed feedback
-          personalized to your MBA background and target roles.
+          personalized to your FMCG marketing background and target roles.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 items-center">
